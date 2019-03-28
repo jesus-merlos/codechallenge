@@ -1,0 +1,29 @@
+body{
+  background-color: #282c34;
+  height: 900px;
+}
+
+
+.ControlBox{
+  text-align: center;
+  width: 500px;
+  margin: 0px auto;
+}
+
+label{
+  max-height: 300px;
+  margin: 0px auto;
+  display: inline;
+  top: 35px;
+  position: relative;
+}
+
+img{
+  background-color: #FFF;
+  padding-top: 60px;
+  padding-bottom: 12px;
+  padding-left: 12px;
+  padding-right: 12px;
+  width: 750px;
+}
+
